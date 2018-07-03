@@ -6,18 +6,8 @@
 
 You need Atom >= 1.19.
 
-### Atom Dependencies:
-
-Install `atom-ide-ui` from "Install" in Atom's settings or run:
 ```
-$ apm install atom-ide-ui
-```
-
-Then you need to clone and install this package:
-```
-$ git clone https://github.com/lachhebo/dedukti-editor.git
-$ cd dedukti-editor
-$ apm link
+$ apm install lachhebo/dedukti-editor
 ```
 
 ### Installing the Dedukti Language Server:
